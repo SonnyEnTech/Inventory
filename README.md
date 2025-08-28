@@ -98,3 +98,4 @@ You can support me at [trakteer](https://trakteer.id/mrezkys) <br>
 ## Announcement
 
 Now MarketKy already relased v1.0.0
+
